@@ -1,0 +1,27 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Log files
+*.log
+
+# Subdirectories (projects, build output, editor config)
+.vscode/
+build/
+guandan_qt/
+
+# PDF and other non-source files
+*.pdf
+
+# Python files (not part of C++ learning)
+*.py
+
+# Qt install log
+aqtinstall.log
